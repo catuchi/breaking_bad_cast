@@ -14,7 +14,7 @@ npm start
 
 ## Demo
 
-This app is deployed on netlify. [Try it](https://whimsical-cobbler-7797c5.netlify.app/)
+This app is deployed on netlify. [Try it](https://ephemeral-rabanadas-2c41bd.netlify.app/)
 
 ## Tech Stack
 
